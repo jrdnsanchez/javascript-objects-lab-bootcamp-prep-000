@@ -10,3 +10,4 @@ function deleteFromObjectByKey (object, key) {
   var clone = Object.assign({}, object);
   return clone;
 }
+function 
